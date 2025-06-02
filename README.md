@@ -2,7 +2,7 @@
 
 Game from the EDA subject. Consists of creating an AI bot that competes with other players making use of graph algorithms such as BFS.
 
-The bot that I created is called AIGyroZeppeli.cpp (generates HADES player)
+The bot that I created is called AIGyroZeppeli.cc (generates HADES player)
 
 Rules are in the info folder.
 
