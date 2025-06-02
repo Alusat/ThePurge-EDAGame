@@ -1,6 +1,7 @@
 # ThePurge-EDAGame
 
 Game from the EDA subject. Consists of creating an AI bot that competes with other players making use of graph algorithms such as BFS.
+See more on the rules.pdf
 
 The bot that I created is called AIGyroZeppeli.cc (generates HADES player)
 
