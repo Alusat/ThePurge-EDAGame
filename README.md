@@ -4,7 +4,7 @@ Game from the EDA subject. Consists of creating an AI bot that competes with oth
 
 The bot that I created is called AIGyroZeppeli.cc (generates HADES player)
 
-Rules are in the info folder.
+Go to the folder /info to see more about the game
 
 ## How to execute a game
 
